@@ -4,4 +4,4 @@ Rust implementation of an experimental stimulus protocol for Raven's Advanced Pr
 
 ## Previous implementation
 
-This problem was an early programming contract for me just post-undergrad in a Cognitive Science lab at UCLA, done in MatLab. 
+This problem was an early MATLAB programming contract for me just post-undergrad in a Cognitive Science lab at UCLA with G. Schauer.
