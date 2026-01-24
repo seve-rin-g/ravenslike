@@ -1,6 +1,6 @@
 # ravenslike
 
-Rust implementation of an experimental stimulus protocol for Raven's Advanced Progressive Matrices
+MATLAB->Rust implementation of an experimental stimulus protocol for Raven's Advanced Progressive Matrices
 
 ## Previous implementation
 
@@ -8,3 +8,7 @@ This problem was an early MATLAB programming contract for me just post-undergrad
 
 ![ravens 1 example](ravens1.jpg "Showing negation operator")
 ![ravens 2 example](ravens2.jpg "Operator progression")
+
+## New implementation
+
+...
