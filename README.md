@@ -11,4 +11,4 @@ This problem was a very early MATLAB programming contract for me (just post-unde
 
 ## New implementation
 
-...
+Planning to use `nannou` for graphics handling in Rust.
