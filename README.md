@@ -4,7 +4,8 @@ MATLAB->Rust implementation of an experimental stimulus protocol for Raven's Adv
 
 ## Previous implementation
 
-This problem was a very early MATLAB programming contract for me (just post-undergrad) in G. Schauer's lab at UCLA.
+This problem was a very early MATLAB programming contract for me (just post-undergrad) in G. Schauer's lab at UCLA. 
+Research subjects attempt to discern rules from "solved" matrices (below) and apply them to partially completed matrices.
 
 ![ravens 1 example](ravens1.jpg "Showing negation operator")
 ![ravens 2 example](ravens2.jpg "Operator progression")
